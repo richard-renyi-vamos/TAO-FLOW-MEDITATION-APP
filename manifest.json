@@ -1,0 +1,18 @@
+{
+  "name": "Tao Flow — Cosmic Meditation",
+  "short_name": "Tao Flow",
+  "description": "Interactive Taoist cosmic mandala, Five Elements harmony, guided breathwork, and generative soundscape.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070913",
+  "theme_color": "#070913",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
